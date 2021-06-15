@@ -6,7 +6,7 @@ Conceptos trabajados: Herencia, Polimorfismo, Interfaces, Excepciones, Clases, e
 
 Para probarlo:
 
-1- Descargar el repositorio \n
-2- Abrir el archivo ejecutar.bat que se encuentra en la carpeta jar
+1- Descargar el repositorio.
+2- Abrir el archivo ejecutar.bat que se encuentra en la carpeta jar.
  
 Disfrute!
