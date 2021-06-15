@@ -1,9 +1,12 @@
-## TO DO
+Juego 2D desarrollado en Java usando Programacion Orientada a Objetos.
 
-* Añadir Javadoc
-* Actualizar UML
-* Agregar a las entidades moviles un metodo para saber si se pueden mover en una direccion. Algo como **public abstract boolean puedeMover(Direccion)**
+Fué parte de un trabajo de la materia Taller de Lenguajes II en donde tuvimos que desarrollar todos los conceptos aprendidos durante la cursada.
 
-* Ocultar el mapa, que se interactue directamente con Juego
+Conceptos trabajados: Herencia, Polimorfismo, Interfaces, Excepciones, Clases, entre otros.
 
-* Crear entidad "entrada", cuyo comportamiento sea ser reemplazado por Rockford
+Para probarlo:
+
+1- Descargar el repositorio
+2- Abrir el archivo ejecutar.bat que se encuentra en la carpeta jar
+ 
+Disfrute!
