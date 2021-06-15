@@ -1,0 +1,6 @@
+Puntuacion: Cuando Rockford muere en un determinado nivel, la puntuación que acumuló en ese mismo nivel es sumada a la puntuacion final. No importa que no haya ganado.
+
+KeyMap:
+	Esc: Menu principal
+	P: Pausa el juego
+	R: mata a rockford y reinicia el nivel
